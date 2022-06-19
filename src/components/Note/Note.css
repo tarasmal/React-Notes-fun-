@@ -1,0 +1,11 @@
+.note-item{
+    text-align: center;
+    border-style: double;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: #a47c7c;
+    padding: 2%;
+    margin: 3%;
+    max-width: 50%;
+    margin-left: 23%;
+}
